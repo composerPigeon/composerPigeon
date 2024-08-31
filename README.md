@@ -8,10 +8,10 @@
 ### Collector
 This project is my bachelor work. It is server application built in Java using Spring framework, it's main task is gathering statistical data about read-only queries from different types and models of database systems.
 
-### Document Database
+### DocumentDatabase
 Project was created in C# language using also ASP.net Core framework to work as a server application. It is database for unstructured text documents. Search engine of this program is based on text search vector model implemented via inverted index.
 
-### WebCrawler
+### WebCrawler (private repository)
 Larger piece of software made as a part of a coursework developed in team of 3 people. Created using NextJS framework in javascript. User can specify initial url address, regex for crawling and shedule the repetition of crawling process. Program will crawl the pages based on users input and show the result of crawled pages as a graph of visited sites connected by their links. User is also able to look for the status of crawling processes.
 
 ### RailwayDatabase
